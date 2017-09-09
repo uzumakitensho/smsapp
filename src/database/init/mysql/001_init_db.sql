@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS `smsapp`;
+CREATE DATABASE `smsapp`;
